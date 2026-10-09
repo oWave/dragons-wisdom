@@ -1,0 +1,21 @@
+{
+  "id": "z-comet-is-always-right",
+  "title": "☄️'s Wisdom",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "description": "",
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "changelog": "This is auto replaced"
+}
